@@ -8,7 +8,7 @@
 
 #### Projets
 
-**[Médiathèque des Tilleuls](https://github.com/Raffaele-Junia/gestion-mediatheque)** — application web de gestion de médiathèque<br>
+**[gestion-mediatheque](https://github.com/Raffaele-Junia/gestion-mediatheque)** — application web de gestion de médiathèque<br>
 Catalogue avec fiches et recherche tolérante, réservations avec file d'attente, recommandations, espace du personnel avec journal des actions.<br>
 
 **[CyberScope](https://github.com/Raffaele-Junia/cyberscope)** — ce lien est-il sûr avant de cliquer ?<br>
